@@ -1,0 +1,8 @@
+{
+  "lista": {
+    "itens": [
+      {"nome": "Arroz", "quantidade": 100, "id": 350},
+      {"nome": "Feijão", "quantidade": 100, "id": 510}
+    ]
+  }
+}
